@@ -14,6 +14,7 @@ The **airway** RNA-seq dataset (Himes *et al.*, 2014, *PLoS ONE*): four human ai
 | 2 | Differential expression with PyDESeq2 | Ch.2 — Practical guide | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/muntakson/omics-atlas-workshop/blob/main/notebooks/02_differential_expression.ipynb) |
 | 3 | Pathway enrichment analysis | Ch.3 — Enrichment protocol | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/muntakson/omics-atlas-workshop/blob/main/notebooks/03_pathway_enrichment.ipynb) |
 | 4 | Interpreting & visualizing enrichment | Ch.4 — Interpreting omics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/muntakson/omics-atlas-workshop/blob/main/notebooks/04_interpreting_enrichment.ipynb) |
+| 5 | Single-cell RNA-seq with Scanpy | Ch.5 — scRNA-seq best practices | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/muntakson/omics-atlas-workshop/blob/main/notebooks/05_single_cell.ipynb) |
 
 Work through them in order — each builds on the last (counts → DEGs → pathways → enrichment map).
 
